@@ -1,0 +1,15 @@
+C:\Users\Robert\source\repos\area of 2 ciecles\bin\Debug\net6.0\area of 2 ciecles.exe
+C:\Users\Robert\source\repos\area of 2 ciecles\bin\Debug\net6.0\area of 2 ciecles.deps.json
+C:\Users\Robert\source\repos\area of 2 ciecles\bin\Debug\net6.0\area of 2 ciecles.runtimeconfig.json
+C:\Users\Robert\source\repos\area of 2 ciecles\bin\Debug\net6.0\area of 2 ciecles.dll
+C:\Users\Robert\source\repos\area of 2 ciecles\bin\Debug\net6.0\area of 2 ciecles.pdb
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.AssemblyInfo.cs
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.dll
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\refint\area of 2 ciecles.dll
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.pdb
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\area of 2 ciecles.genruntimeconfig.cache
+C:\Users\Robert\source\repos\area of 2 ciecles\obj\Debug\net6.0\ref\area of 2 ciecles.dll
